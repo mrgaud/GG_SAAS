@@ -1,0 +1,2 @@
+object @contact
+attributes :id
