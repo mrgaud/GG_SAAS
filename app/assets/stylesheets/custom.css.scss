@@ -20,3 +20,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a7cfdf', end
     margin-top:+10px;
     padding-top:+5px;
 }
+.make-it-gold {
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f9eca3+0,f9d81f+28,fbf2c5+100 */
+background: rgb(249,236,163); /* Old browsers */
+background: -moz-radial-gradient(center, ellipse cover,  rgba(249,236,163,1) 0%, rgba(249,216,31,1) 28%, rgba(251,242,197,1) 100%); /* FF3.6-15 */
+background: -webkit-radial-gradient(center, ellipse cover,  rgba(249,236,163,1) 0%,rgba(249,216,31,1) 28%,rgba(251,242,197,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: radial-gradient(ellipse at center,  rgba(249,236,163,1) 0%,rgba(249,216,31,1) 28%,rgba(251,242,197,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f9eca3', endColorstr='#fbf2c5',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+}
