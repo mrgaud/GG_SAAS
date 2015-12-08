@@ -57,4 +57,5 @@ gem "stripe", "1.16.1"
 # Use figaro to hide secret keys
 gem "figaro", "1.0.0"
 
-
+# Use seed_dump for Seeding and creating seeds from and for Database
+gem 'seed_dump'
